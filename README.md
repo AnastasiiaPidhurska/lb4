@@ -93,7 +93,7 @@ kill -HUP $(pgrep task2)
 bash
 Копировать код
 kill -TERM $(pgrep task2)
-💻 Приклад виводу (tail -f /tmp/lab4_task2.log)
+Приклад виводу (tail -f /tmp/lab4_task2.log)
 ruby
 Копировать код
 *****
